@@ -71,6 +71,7 @@ class BasicFeedsSiteSiteInformationForm extends SiteInformationForm {
       $form['basic_feeds_information']['entity_bundle_types']['#default_value']
         = $entity_bundle_types;
     }
+    // rename configuration form button.
     $form['actions']['submit']['#value'] = $this->t('Update configuration');
     return $form;
   }
@@ -79,6 +80,8 @@ class BasicFeedsSiteSiteInformationForm extends SiteInformationForm {
    * @param array $form
    * @param array $form_state
    * @return array
+   * ajax callback to load bundle type options to entity_bundle_types field based on selection
+   * in the entity type field.
    */
   public function getentityBundletypesField(array &$form, FormStateInterface $form_state) {
     $entity_types = $form_state->getValue('entity_types');
