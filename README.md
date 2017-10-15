@@ -1,6 +1,6 @@
 # basic_feeds
 
-Total I took : 15 hour
+Total time I took : 15 hour
 
 Requirement is only with respect to node entity type and page node type to server as a json response. But I have generalized it i.e. For all Entity type and bundle type level. 
 
