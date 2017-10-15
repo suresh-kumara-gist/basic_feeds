@@ -1,0 +1,7 @@
+basic_feeds_js:
+  version: 1.x
+  js:
+    js/basic_feeds.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings

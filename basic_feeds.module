@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains basic_feeds.module..
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function basic_feeds_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the basic_feeds module.
+    case 'help.page.basic_feeds':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('This module renders entities data in json format if found else throws &quot;access denied&quot;. Site will have global api key set in for feeds to response.') . '</p>';
+      return $output;
+
+    default:
+  }
+}

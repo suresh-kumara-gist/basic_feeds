@@ -1,0 +1,7 @@
+services:
+# create route subscriber service to alter core site information
+# to extended site information
+  basic_feeds.route_subscriber:
+    class: Drupal\basic_feeds\Routing\BasicFeedsRouteSubscriber
+    tags:
+      - { name: event_subscriber }

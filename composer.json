@@ -1,0 +1,14 @@
+{
+  "name": "drupal/basic_feeds",
+  "type": "drupal-module",
+  "description": "This module renders entities data in json format if found else throws 'access denied'. Site will have global api key set in for feeds to response.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/basic_feeds",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/basic_feeds",
+    "source": "http://cgit.drupalcode.org/basic_feeds"
+  },
+  "require": { }
+}

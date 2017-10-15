@@ -1,0 +1,5 @@
+name: Basic feeds
+type: module
+description: This module renders entities data in json format if found else throws "access denied". Site will have global api key set in for feeds to response.
+core: 8.x
+package: feeds
