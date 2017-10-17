@@ -21,3 +21,12 @@ go to browser and try to access http://yourdomain.com/page_json/{repalce_siteapi
 4. https://www.drupal.org/docs/8/api/routing-system/access-checking-on-routes : implemented simple access check
 
 5. used drupal console to generate module , generate route alter server , generate controller
+
+
+End output:
+<div>
+<img href="https://github.com/suresh-kumara-gist/basic_feeds/blob/master/Basic%20site%20settings%20%20%20ipassio.png">
+</div>
+<div>
+<img href="https://github.com/suresh-kumara-gist/basic_feeds/blob/master/jsonoutput.png">
+</div>
