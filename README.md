@@ -25,5 +25,5 @@ go to browser and try to access http://yourdomain.com/page_json/{repalce_siteapi
 
 End output:
 
-![Alt text](/basic_feeds/Basic site settings ipassio.png?raw=true "Optional Title")  
-![Alt text](/basic_feeds/jsonoutput.png?raw=true "Optional Title")  
+![Alt tag](/basic_feeds/Basic site settings ipassio.png?raw=true "Optional Title")  
+![Alt tag](/basic_feeds/jsonoutput.png?raw=true "Optional Title")  
