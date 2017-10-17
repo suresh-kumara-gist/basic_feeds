@@ -27,5 +27,5 @@ End output:
 
 (/basic_feeds/Basic site settings ipassio.png?raw=true "Optional Title")  
 (/basic_feeds/jsonoutput.png?raw=true "Optional Title")  
-
+![Screenshot] (https://github.com/suresh-kumara-gist/basic_feeds/blob/master/jsonoutput.png )
 
