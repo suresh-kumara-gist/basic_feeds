@@ -25,7 +25,6 @@ go to browser and try to access http://yourdomain.com/page_json/{repalce_siteapi
 
 End output:
 
-(/basic_feeds/Basic site settings ipassio.png?raw=true "Optional Title")  
-(/basic_feeds/jsonoutput.png?raw=true "Optional Title")  
+![Screenshot] (https://github.com/suresh-kumara-gist/basic_feeds/blob/master/Basic%20site%20settings%20%20%20ipassio.png )
 ![Screenshot] (https://github.com/suresh-kumara-gist/basic_feeds/blob/master/jsonoutput.png )
 
